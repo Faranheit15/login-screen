@@ -1,0 +1,32 @@
+﻿
+1. Gradient
+	https://uigradients.com/#MidnightCity
+	
+
+2. Color Palatte
+	https://colorhunt.co/palette/177052
+	https://colorhunt.co/palette/181131
+
+3. Fonts
+	Oswald @ font-weight: {300,400,500,700} 
+	set for eact type. For more info, check: https://fonts.google.com/specimen/Oswald
+
+4. Screens
+
+	A. Log In Screen
+		elements: {email_textbox, password_passwordtype_textbox, login_button, Forgot_password_button/hyperlink, Sign_Up_Button}
+
+	
+5. Notes
+	
+	Keeep the datafields in the dropdown_menu void(for now)
+	Keep Linespacing over all multiline text set to "1.2vw" at-least(see what fits perfect)
+	Keep design minimalistic in nature, with most of the cosmetic-play within the texts and cards only
+	Keep consistent design between various screens
+	Try to fork code,a nd use asmuch vanilla CSS as you can
+
+		
+								(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ✧ﾟ･: *ヽ(◕ヮ◕ヽ)					
+								 (ᵔᴥᵔ)  Thank You  (ᵔᴥᵔ)
+							        We Are Open To Suggestions
+	
